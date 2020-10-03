@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import SignUp11123697Navigator from '../features/SignUp11123697/navigator';
 import Tutorial2123696Navigator from '../features/Tutorial2123696/navigator';
 import BlankScreen1123695Navigator from '../features/BlankScreen1123695/navigator';
-import BlankScreen0123694Navigator from '../features/BlankScreen0123694/navigator';
 
 /**
  * new navigators can be imported here
@@ -20,7 +19,6 @@ const AppNavigator = {
 SignUp11123697: { screen: SignUp11123697Navigator },
 Tutorial2123696: { screen: Tutorial2123696Navigator },
 BlankScreen1123695: { screen: BlankScreen1123695Navigator },
-BlankScreen0123694: { screen: BlankScreen0123694Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
